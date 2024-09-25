@@ -46,7 +46,7 @@ A step in documenting your project
 
 ## Additional Subtopics  <span style="color: green;"> <- README's can vary depending on the project. </span>
 * CONTRIBUTERS // HOW TO CONTRIBUTE
-* VERSIONS 
+* VERSIONS
 * AUTHOR 
 * LICENSE
 * ACKNOWLEDGMENTS
