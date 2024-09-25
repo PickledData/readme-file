@@ -1,16 +1,18 @@
 <!-- Title -->
-# **A README.md File** <span class= "subtopics"> <- Title </span>
+# **A README.md File** <span class="subtopics"> <- Title </span>
 
 This README is to answer the question: What is a README.md file and how it's useful?
 
 <!-- Introduction/Overview -->
 ## What is a README.md file ? <span class= "subtopics"> <- Introduction / Overview / Keywords</span>
 
- A README is usually a text file often in Markdown with the <span style="color: red;"> .md </span> extension. You can use any text editor. I am using VScode :smile:
 
-README.md files can be created on a text editor, Github, or the command line.
+ A README is usually a text file made using the markup language Markdown, hence the extension <span style="color: red;"> .md </span>. You can use any text editor to create a README file, I used VScode :smile:
 
- The history of README files is not very clear but there is an assumption that it may have began with early Macintosh system software installed with a "Read Me" on the Startup Disk . . . says wiki :)
+  The history of README files is not very clear but there is an assumption that it may have began with early Macintosh system software installed with a "Read Me" on the Startup Disk . . . says wiki :)
+
+## Creating a README 
+README.md files can be created through text editor, Github, or the command line.
 
  <span style="color: yellow;">
     <pre>
@@ -37,7 +39,6 @@ There's also Markdown syntax for emojis
     </pre>
 </span>
 
-:eye: :lips: :eye:
 
 ## WHO IS IT FOR ?
  
@@ -59,9 +60,9 @@ A step in documenting your project
 ## Source
 https://www.markdownguide.org
 
+
 <style>
     .subtopics {
         color:green;
     }
 </style>
-
