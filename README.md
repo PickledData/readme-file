@@ -33,9 +33,10 @@ README.md files can be created on a text editor, Github, or the command line.
 
 <span style="color: purple;">
     <pre>
-There's also Markdown syntax for emojis :eye: :lips: :eye:
+There's also Markdown syntax for emojis 
     </pre>
 </span>
+:eye: :lips: :eye:
 
 ## WHO IS IT FOR ?
  
@@ -56,3 +57,4 @@ A step in documenting your project
 
 ## Source
 https://www.markdownguide.org
+
