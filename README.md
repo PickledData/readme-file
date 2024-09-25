@@ -14,7 +14,8 @@ README.md files can be created on a text editor, Github, or the command line.
 
  <span style="color: yellow;">
     <pre>
-    MD stands for Markdown which is a markup language just like HTML. HTML tags can be mixed with Markdown syntax.
+    MD stands for Markdown which is a markup language just like HTML. 
+    HTML tags can be mixed with Markdown syntax.
     </pre>
 </span>
 <span style="color: red;"> 
